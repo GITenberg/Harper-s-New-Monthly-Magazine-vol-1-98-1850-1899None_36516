@@ -1,0 +1,27 @@
+_repo: Harper-s-New-Monthly-Magazine-vol-1-98-1850-1899None_36516
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harper, Various (magazine)
+    gutenberg_agent_id: '38318'
+    url: http://www.gutenberg.org/2009/agents/38318
+description: ''
+gutenberg_bookshelf: Harper's New Monthly Magazine
+gutenberg_issued: '2011-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36516'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Civilization -- Periodicals'
+- !lcc 'AP'
+- !lcsh 'American literature -- Periodicals'
+- !lcsh 'Culture -- Periodicals'
+title: Harper's New Monthly Magazine, vol. 3, no. 18, November, 1851
+url: http://www.gutenberg.org/ebooks/36516
