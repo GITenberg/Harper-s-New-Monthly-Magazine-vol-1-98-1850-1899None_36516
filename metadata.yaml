@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '38318'
     url: http://www.gutenberg.org/2009/agents/38318
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36516#Harper-s-New-Monthly-Magazine-vol-1-98-1850-1899None
 gutenberg_bookshelf: Harper's New Monthly Magazine
 gutenberg_issued: '2011-06-25'
 gutenberg_type: Text
